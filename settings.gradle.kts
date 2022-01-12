@@ -1,1 +1,1 @@
-rootProject.name = "IntelliJ Platform Plugin Template"
+rootProject.name = "https-github.com-JetBrains-intellij-platform-plugin-template.gi"
